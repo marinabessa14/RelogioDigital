@@ -1,0 +1,17 @@
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\bin\Debug\net6.0-windows\RelogioDigital.exe
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\bin\Debug\net6.0-windows\RelogioDigital.deps.json
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\bin\Debug\net6.0-windows\RelogioDigital.runtimeconfig.json
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\bin\Debug\net6.0-windows\RelogioDigital.dll
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\bin\Debug\net6.0-windows\RelogioDigital.pdb
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.csproj.AssemblyReference.cache
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.Form1.resources
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.csproj.GenerateResource.cache
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.AssemblyInfoInputs.cache
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.AssemblyInfo.cs
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.csproj.CoreCompileInputs.cache
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.dll
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\refint\RelogioDigital.dll
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.pdb
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\RelogioDigital.genruntimeconfig.cache
+C:\Users\Livia\Desktop\RelogioDigital\RelogioDigital\obj\Debug\net6.0-windows\ref\RelogioDigital.dll
